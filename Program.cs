@@ -21,6 +21,15 @@ builder.Services.AddCors(options =>
         });
 });
 
+// Add Identity for JWT
+builder.Services.AddIdentity<IdentityUser, IdentityRole>(options =>
+    {
+        options.SignIn.RequireConfirmedAccount = false;
+        options.Password.RequireDigit = false;
+    })
+    .AddEntityFrameworkStores<ApplicationDbContext>()
+    .AddDefaultTokenProviders();
+
 // Configuração de autenticação JWT
 builder.Services.AddAuthentication("Bearer")
     .AddJwtBearer(options =>

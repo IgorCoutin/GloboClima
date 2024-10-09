@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("GloboClima.API")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a9ed8cc8d193638ea12a9b18697c164b60f32044")]
 [assembly: System.Reflection.AssemblyProductAttribute("GloboClima.API")]
 [assembly: System.Reflection.AssemblyTitleAttribute("GloboClima.API")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

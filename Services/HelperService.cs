@@ -6,7 +6,7 @@ using System.Text;
 using System.Threading.Tasks;
 
 
-namespace ServiceVisaWeb.Services
+namespace GloboClima.API.Services
 {
     public class HelperService
     {

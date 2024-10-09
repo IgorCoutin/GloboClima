@@ -117,3 +117,4 @@ C:\Users\User\Desktop\Projetos\GloboClima\GloboClima.API\obj\Debug\net8.0\refint
 C:\Users\User\Desktop\Projetos\GloboClima\GloboClima.API\obj\Debug\net8.0\GloboClima.API.pdb
 C:\Users\User\Desktop\Projetos\GloboClima\GloboClima.API\obj\Debug\net8.0\GloboClima.API.genruntimeconfig.cache
 C:\Users\User\Desktop\Projetos\GloboClima\GloboClima.API\obj\Debug\net8.0\ref\GloboClima.API.dll
+C:\Users\User\Desktop\Projetos\GloboClima\GloboClima.API\obj\Debug\net8.0\GloboClima.API.sourcelink.json

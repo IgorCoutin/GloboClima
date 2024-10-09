@@ -11,7 +11,9 @@ using GloboClima.API.Dtos.User;
 using GloboClima.API.Models;
 using GloboClima.API.Models.Geral;
 using GloboClima.API.Services;
+using GloboClima.API.Models.Responses;
 using System.Collections.Immutable;
+
 
 namespace GloboClima.API.Controllers
 {
